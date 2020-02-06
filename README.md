@@ -1,8 +1,2 @@
-<html>
-  <head> 
-    <title> </title>
-  </head>
-  <body> 
-    <div> </div>
-  </body>
-</html>
+Task fo Caldal.com    
+Create Email Template.
